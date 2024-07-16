@@ -1,0 +1,10 @@
+https://acap-bicol.github.io/
+https://acap-bicol.github.io/weather-services/
+https://acap-bicol.github.io/cropping-calendar-v2/
+https://acap-bicol.github.io/agroclimatic-services/
+https://acap-bicol.github.io/bulletins/
+https://acap-bicol.github.io/bulletins/weather/
+https://acap-bicol.github.io/bulletins/seasonal-outlook/
+https://acap-bicol.github.io/bulletins/special-weather-forecast/
+https://acap-bicol.github.io/admin/login/
+https://acap-bicol.github.io/superadmin/
