@@ -7,4 +7,4 @@ https://acap-bicol.github.io/bulletins/weather/
 https://acap-bicol.github.io/bulletins/seasonal-outlook/
 https://acap-bicol.github.io/bulletins/special-weather-forecast/
 https://acap-bicol.github.io/admin/login/
-https://acap-bicol.github.io/superadmin/
+https://acap-bicol.github.io/superadmin/login/
